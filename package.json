@@ -1,0 +1,22 @@
+{
+  "name": "prims_ng",
+  "version": "0.2.0",
+  "description": "PRIMS + Planks/rowing machine",
+  "main": "index.js",
+  "repository": "http://localhost:5000/",
+  "author": "LCDR Mike Pyne",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "^4.17.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "uswds": "^2.5.0"
+  }
+}
