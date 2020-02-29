@@ -1,5 +1,7 @@
 # Overview
 
+![Node.js CI](https://github.com/mpyne-navy/plankenrow/workflows/Node.js%20CI/badge.svg)
+
 plankenrow is a demonstration [Node.js](https://nodejs.org/) application
 intended to serve as a platform for experimentation with physical readiness and
 fitness management using processes suspiciously similar to U.S. Navy processes.
