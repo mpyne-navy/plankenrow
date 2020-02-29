@@ -1,8 +1,8 @@
 {
-  "name": "prims_ng",
+  "name": "plankenrow",
   "version": "0.2.0",
   "description": "PRIMS + Planks/rowing machine",
-  "main": "index.js",
+  "main": "app.js",
   "repository": "http://localhost:5000/",
   "author": "LCDR Mike Pyne",
   "scripts": {
