@@ -12,16 +12,16 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "ejs": "~2.6.1",
-    "express": "^4.17.1",
-    "http-errors": "~1.6.3",
-    "morgan": "~1.9.1",
-    "uswds": "^2.5.0"
+    "cookie-parser": "latest",
+    "debug": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "http-errors": "latest",
+    "morgan": "latest",
+    "uswds": "latest"
   },
   "devDependencies": {
-    "mocha": "^7.1.0",
-    "supertest": "^4.0.2"
+    "mocha": "latest",
+    "supertest": "latest"
   }
 }
