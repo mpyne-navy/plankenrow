@@ -14,11 +14,11 @@
   "dependencies": {
     "cookie-parser": "latest",
     "debug": "latest",
-    "ejs": "latest",
+    "ejs": "^3.1.9",
     "express": "latest",
     "http-errors": "latest",
     "morgan": "latest",
-    "uswds": "latest"
+    "uswds": "^2.14.0"
   },
   "devDependencies": {
     "mocha": "latest",
