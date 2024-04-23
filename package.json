@@ -14,14 +14,15 @@
   "dependencies": {
     "cookie-parser": "latest",
     "debug": "latest",
+    "formidable": "3.2",
     "ejs": "^3.1.9",
-    "express": "latest",
+    "express": "^4.19.2",
     "http-errors": "latest",
     "morgan": "latest",
     "uswds": "^2.14.0"
   },
   "devDependencies": {
-    "mocha": "latest",
-    "supertest": "latest"
+    "mocha": "^10.4.0",
+    "supertest": "^6.3.4"
   }
 }
