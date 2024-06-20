@@ -13,10 +13,10 @@
   "private": false,
   "dependencies": {
     "cookie-parser": "latest",
-    "debug": "latest",
-    "formidable": "3.2",
+    "debug": "^4.3.5",
     "ejs": "^3.1.9",
     "express": "^4.19.2",
+    "formidable": "3.2",
     "http-errors": "latest",
     "morgan": "latest",
     "uswds": "^2.14.0"
