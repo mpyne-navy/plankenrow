@@ -12,7 +12,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "cookie-parser": "latest",
+    "cookie-parser": "^1.4.7",
     "debug": "^4.3.5",
     "ejs": "^3.1.9",
     "express": "^4.19.2",
