@@ -10,19 +10,18 @@
     "test": "mocha test"
   },
   "license": "MIT",
-  "private": false,
   "dependencies": {
     "cookie-parser": "^1.4.7",
-    "debug": "^4.3.5",
-    "ejs": "^3.1.9",
-    "express": "^4.19.2",
+    "debug": "^4.4.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
     "http-errors": "latest",
     "morgan": "latest",
     "uswds": "^2.14.0"
   },
   "devDependencies": {
-    "mocha": "^10.4.0",
-    "supertest": "^6.3.4"
+    "mocha": "^11.7.1",
+    "supertest": "^7.1.4"
   },
-  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+  "packageManager": "yarn@4.9.2"
 }
