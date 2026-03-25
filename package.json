@@ -25,5 +25,9 @@
     "mocha": "^11.7.1",
     "supertest": "^7.1.4"
   },
+  "resolutions": {
+    "serialize-javascript": "^7.0.3",
+    "minimatch": "^5.1.8"
+  },
   "packageManager": "yarn@4.12.0"
 }
