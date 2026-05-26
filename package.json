@@ -18,7 +18,7 @@
     "http-errors": "^2.0.1",
     "minimatch": "5.1.9",
     "morgan": "^1.10.1",
-    "qs": "6.15.1",
+    "qs": "6.15.2",
     "uswds": "^2.14.0"
   },
   "devDependencies": {
@@ -30,6 +30,7 @@
     "brace-expansion": "^2.0.3",
     "glob": "^13.0.6",
     "path-to-regexp": "^8.4.0",
+    "qs": "6.15.2",
     "minimatch": "^5.1.8"
   },
   "packageManager": "yarn@4.12.0"
